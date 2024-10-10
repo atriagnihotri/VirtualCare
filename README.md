@@ -23,7 +23,7 @@
 #ALL DOCTORS
 
 
-![detail](https://github.com/user-attachments/assets/d9482024-498d-445e-ad7c-734e1af1db7b)
+![all](https://github.com/user-attachments/assets/8f659e40-1bf9-4b10-907c-4feb7400f5c3)
 
 
 
@@ -31,14 +31,15 @@
 #DETAIL
 
 
-![all](https://github.com/user-attachments/assets/8f659e40-1bf9-4b10-907c-4feb7400f5c3)
+![schedule](https://github.com/user-attachments/assets/96f09d62-2949-4c26-9414-a8a0546b41bd)
+
 
 
 
 #SCHEDULE
 
 
-![schedule](https://github.com/user-attachments/assets/96f09d62-2949-4c26-9414-a8a0546b41bd)
+![detail](https://github.com/user-attachments/assets/d9482024-498d-445e-ad7c-734e1af1db7b)
 
 
 
