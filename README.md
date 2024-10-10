@@ -23,14 +23,15 @@
 #ALL DOCTORS
 
 
-![all](https://github.com/user-attachments/assets/8f659e40-1bf9-4b10-907c-4feb7400f5c3)
+![detail](https://github.com/user-attachments/assets/d9482024-498d-445e-ad7c-734e1af1db7b)
+
 
 
 
 #DETAIL
 
 
-![detail](https://github.com/user-attachments/assets/d9482024-498d-445e-ad7c-734e1af1db7b)
+![all](https://github.com/user-attachments/assets/8f659e40-1bf9-4b10-907c-4feb7400f5c3)
 
 
 
