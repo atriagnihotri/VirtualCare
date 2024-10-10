@@ -30,14 +30,14 @@
 #DETAIL
 
 
-![detail](https://github.com/user-attachments/assets/9ff0b6bb-745c-4ea4-ae78-81b9d23f6284)
+![detail](https://github.com/user-attachments/assets/d9482024-498d-445e-ad7c-734e1af1db7b)
 
 
 
 #SCHEDULE
 
 
-![data](https://github.com/user-attachments/assets/361198a8-aae5-4f72-ab23-eb579132b890)
+![schedule](https://github.com/user-attachments/assets/96f09d62-2949-4c26-9414-a8a0546b41bd)
 
 
 
